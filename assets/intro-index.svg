@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="280" viewBox="0 0 440 280" role="img" aria-labelledby="title desc">
+  <title id="title">教育・ロボット・事業開発</title>
+  <desc id="desc">3つの活動領域を、重なり合う円で示した図。</desc>
+  <circle cx="140" cy="98" r="82" fill="#1F4D3A"/>
+  <circle cx="290" cy="98" r="82" fill="#F8F6EF" stroke="#1F4D3A" stroke-width="1.5"/>
+  <circle cx="215" cy="190" r="82" fill="#E0E8D9" stroke="#1F4D3A" stroke-width="1.5"/>
+  <g font-family="'Hiragino Kaku Gothic ProN', 'Yu Gothic', system-ui, sans-serif" font-size="21" font-weight="600" text-anchor="middle">
+    <text x="132" y="102" fill="#FFFFFF">教育</text>
+    <text x="298" y="102" fill="#1F4D3A">ロボット</text>
+    <text x="215" y="195" fill="#1F4D3A">事業開発</text>
+  </g>
+</svg>

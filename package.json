@@ -6,6 +6,7 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "node scripts/check.mjs",
+    "pages": "node scripts/export-pages.mjs",
     "preview": "node scripts/preview.mjs",
     "dev": "node scripts/build.mjs && node scripts/preview.mjs"
   }
